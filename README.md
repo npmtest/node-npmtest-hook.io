@@ -1,4 +1,7 @@
-# test coverage for  hook.io (v1.0.0)  [![npm package](https://img.shields.io/npm/v/npmtest-hook.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hook.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hook.io.svg)](https://travis-ci.org/npmtest/node-npmtest-hook.io)
+# npmtest-hook.io
+
+#### test coverage for  hook.io (v1.0.0)  [![npm package](https://img.shields.io/npm/v/npmtest-hook.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hook.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hook.io.svg)](https://travis-ci.org/npmtest/node-npmtest-hook.io)
+
 ####
 
 [![NPM](https://nodei.co/npm/hook.io.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hook.io)
